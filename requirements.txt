@@ -1,0 +1,4 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+win11toast>=0.35
+win10toast>=0.9
